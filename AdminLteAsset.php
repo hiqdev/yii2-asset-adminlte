@@ -5,7 +5,7 @@
  * @copyright   Copyright (c) 2015 HiQDev
  */
 
-namespace hipanel\themes\adminlte;
+namespace hipanel\assets\adminlte;
 
 class AdminLteAsset extends \yii\web\AssetBundle
 {
