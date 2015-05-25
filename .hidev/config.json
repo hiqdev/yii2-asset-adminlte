@@ -8,7 +8,7 @@
         "forum":        "https://forum.hiqdev.com/yii2",
         "language":     "PHP",
         "keywords":     "adminlte2, asset, extension, yii2",
-        "description":  "Wrapper around bower package with copied versions",
+        "description":  "Wrapper around bower package with copied versions.",
         "year":         2015
     },
     "vendor": {
