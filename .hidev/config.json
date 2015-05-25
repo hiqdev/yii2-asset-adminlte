@@ -1,0 +1,63 @@
+{
+    "package": {
+        "name":         "yii2-asset-adminlte",
+        "title":        "Yii2 asset for bower adminlte",
+        "type":         "yii2-extension",
+        "features":     "yii2, extension",
+        "license":      "BSD-3-Clause",
+        "forum":        "https://forum.hiqdev.com/yii2",
+        "language":     "PHP",
+        "keywords":     "adminlte2, asset, extension, yii2",
+        "description":  "Wrapper around bower package with copied versions",
+        "year":         2015
+    },
+    "vendor": {
+        "name":         "hiqdev",
+        "title":        "HiQDev",
+        "homepage":     "https://hiqdev.com/",
+        "email":        "support@hiqdev.com",
+        "authors": {
+            "Andrii Vasyliev": {
+                "role":     "Project lead",
+                "email":    "sol@hiqdev.com",
+                "homepage": "https://hipanel.com/"
+            },
+            "Dmitry Naumenko": {
+                "role":     "Lead backend developer",
+                "email":    "silverfire@hiqdev.com",
+                "homepage": "http://silverfire.me/"
+            },
+            "Andrey Klochok": {
+                "role":     "Lead frontend developer",
+                "email":    "tafid@hiqdev.com",
+                "homepage": "https://hiqdev.com/"
+            },
+            "Yuriy Myronchuk": {
+                "role":     "QA Lead",
+                "email":    "bladeroot@hiqdev.com",
+                "homepage": "https://hiqdev.com/"
+            }
+        }
+    },
+    "deps": "all",
+    "all": {
+        "deps": "git, composer, LICENSE, README.md, CHANGELOG.md"
+    },
+    "composer.json": {
+        "require": {
+            "yiisoft/yii2":                     "~2.0",
+            "bower-asset/adminlte":             "2.1.1"
+        },
+        "autoload": {
+            "psr-4": {
+                "hiqdev\\assets\\adminlte\\": ""
+            }
+        },
+        "extra": {
+            "asset-installer-paths": {
+                "npm-asset-library":    "vendor/npm",
+                "bower-asset-library":  "vendor/bower"
+            }
+        }
+    }
+}
