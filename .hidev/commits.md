@@ -1,6 +1,10 @@
 hiqdev/yii2-asset-adminlte commits history
 ------------------------------------------
 
+## Under development
+
+    - 8e0cf21 2015-06-06 + commits.md (sol@hiqdev.com)
+
 ## 2.1.1.4 May 25, 2015
 
 - fixed namespace
