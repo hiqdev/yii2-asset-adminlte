@@ -4,6 +4,7 @@ hiqdev/yii2-asset-adminlte commits history
 ## Under development
 
 - preparing release
+    - aaf0f55 2015-06-06 preparing release (sol@hiqdev.com)
 - hideved
     - 8e0cf21 2015-06-06 + commits.md (sol@hiqdev.com)
     - 048cbe3 2015-06-06 hideved (sol@hiqdev.com)

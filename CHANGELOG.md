@@ -3,6 +3,8 @@ hiqdev/yii2-asset-adminlte changelog
 
 ## Under development
 
+- preparing release
+- hideved
 
 ## 2.1.1.4 May 25, 2015
 
