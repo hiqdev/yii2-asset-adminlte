@@ -1,7 +1,11 @@
 hiqdev/yii2-asset-adminlte changelog
 ------------------------------------
 
-## 2.2.0 Under development
+## 2.2.1 Under development
+
+- Changed to 2.2.1 release
+
+## 2.2.0 2015-08-22
 
 - Changed to 2.2.0 release
 - Changed: moved to src

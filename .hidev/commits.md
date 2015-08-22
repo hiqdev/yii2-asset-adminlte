@@ -1,7 +1,12 @@
 hiqdev/yii2-asset-adminlte commits history
 ------------------------------------------
 
-## 2.2.0 Under development
+## 2.2.1 Under development
+
+- Changed to 2.2.1 release
+    - 9d05af7 2015-08-22 changed to 2.2.1 release (sol@hiqdev.com)
+
+## 2.2.0 2015-08-22
 
 - Changed to 2.2.0 release
     - 840a76b 2015-08-22 changed to 2.2.0 release (sol@hiqdev.com)
