@@ -3,30 +3,31 @@ hiqdev/yii2-asset-adminlte changelog
 
 ## Under development
 
+- Changed: moved to src
 
 ## 2.1.1.5 June 6, 2015
 
-- hideved
+- Fixed: hideved
 
 ## 2.1.1.4 May 25, 2015
 
-- fixed namespace
+- Fixed namespace
 
 ## 2.1.1.3 May 25, 2015
 
-- minor
+- Fixed minor
 
 ## 2.1.1.2 May 25, 2015
 
-- minor
+- Fixed minor
 
 ## 2.1.1.1 May 25, 2015
 
-- fixed namespace
+- Fixed namespace
 
 ## 2.1.1.0 May 25, 2015
 
-- inited
+- Inited
 
 ## Development started May 25, 2015
 

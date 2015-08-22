@@ -3,35 +3,40 @@ hiqdev/yii2-asset-adminlte commits history
 
 ## Under development
 
+- Changed: moved to src
+    - 68c9a22 2015-08-22 + .php_cs (sol@hiqdev.com)
+    - b9fdb43 2015-08-22 php-cs-fixed (sol@hiqdev.com)
+    - 87c4fe0 2015-08-22 moved to src (sol@hiqdev.com)
+    - b03bf20 2015-08-22 rehideved (sol@hiqdev.com)
 
 ## 2.1.1.5 June 6, 2015
 
-- hideved
+- Fixed: hideved
     - aaf0f55 2015-06-06 preparing release (sol@hiqdev.com)
     - 8e0cf21 2015-06-06 + commits.md (sol@hiqdev.com)
     - 048cbe3 2015-06-06 hideved (sol@hiqdev.com)
 
 ## 2.1.1.4 May 25, 2015
 
-- fixed namespace
+- Fixed namespace
     - 401a049 2015-05-25 fixed namespace (sol@hiqdev.com)
 
 ## 2.1.1.3 May 25, 2015
 
-- minor
+- Fixed minor
 
 ## 2.1.1.2 May 25, 2015
 
-- minor
+- Fixed minor
 
 ## 2.1.1.1 May 25, 2015
 
-- fixed namespace
+- Fixed namespace
     - f1aa927 2015-05-25 fixed namespace (sol@hiqdev.com)
 
 ## 2.1.1.0 May 25, 2015
 
-- inited
+- Inited
     - 288f7d3 2015-05-25 inited (sol@hiqdev.com)
 
 ## Development started May 25, 2015
