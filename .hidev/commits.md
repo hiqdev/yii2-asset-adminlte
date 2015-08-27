@@ -3,6 +3,8 @@ hiqdev/yii2-asset-adminlte commits history
 
 ## Under development
 
+- Added pace.js
+    - a69879c 2015-08-27 Add PACE JS (andreyklochok@gmail.com)
 
 ## 2.3.0 2015-08-22
 
