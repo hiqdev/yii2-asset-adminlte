@@ -23,6 +23,7 @@ class AdminLteAsset extends \yii\web\AssetBundle
     public $js = [
         'plugins/slimScroll/jquery.slimscroll.min.js',
         'plugins/fastclick/fastclick.min.js',
+        'plugins/pace/pace.js',
         'dist/js/app.js',
     ];
 }
