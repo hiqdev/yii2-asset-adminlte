@@ -3,6 +3,10 @@ hiqdev/yii2-asset-adminlte commits history
 
 ## Under development
 
+- Fixed: updated with latest HiDev features
+    - b5cd49d 2016-02-20 inited tests (sol@hiqdev.com)
+    - ea409da 2016-02-20 phpcsfixed (sol@hiqdev.com)
+    - 013f0a9 2016-02-20 rehideved (sol@hiqdev.com)
 - Added pace.js
     - a69879c 2015-08-27 Add PACE JS (andreyklochok@gmail.com)
 
@@ -21,7 +25,7 @@ hiqdev/yii2-asset-adminlte commits history
 - Changed to 2.2.0 release
     - 840a76b 2015-08-22 changed to 2.2.0 release (sol@hiqdev.com)
 - Changed: moved to src
-    - 68c9a22 2015-08-22 + .php_cs (sol@hiqdev.com)
+    - 68c9a22 2015-08-22 + `.php_cs` (sol@hiqdev.com)
     - b9fdb43 2015-08-22 php-cs-fixed (sol@hiqdev.com)
     - 87c4fe0 2015-08-22 moved to src (sol@hiqdev.com)
     - b03bf20 2015-08-22 rehideved (sol@hiqdev.com)

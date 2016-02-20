@@ -3,6 +3,7 @@ hiqdev/yii2-asset-adminlte changelog
 
 ## Under development
 
+- Fixed: updated with latest HiDev features
 - Added pace.js
 
 ## 2.3.0 2015-08-22
