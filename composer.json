@@ -45,7 +45,7 @@
     ],
     "require": {
         "yiisoft/yii2": "~2.0",
-        "bower-asset/adminlte": "2.3.0"
+        "bower-asset/adminlte": "2.3.2"
     },
     "autoload": {
         "psr-4": {
