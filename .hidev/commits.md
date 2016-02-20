@@ -58,3 +58,6 @@ hiqdev/yii2-asset-adminlte commits history
 
 ## Development started May 25, 2015
 
+
+## 2.3.0.1 2015-08-27
+

@@ -1,11 +1,11 @@
 package:
-    name:           yii2-asset-adminlte
-    namespace:      hiqdev\assets\adminlte
-    title:          Yii 2 asset for bower AdminLTE
     type:           yii2-extension
+    name:           yii2-asset-adminlte
+    title:          Yii2 asset for AdminLTE
+    headline:       Yii2 AdminLTE
     keywords:       adminlte, asset, extension, yii2
-    year:           2015
+    namespace:      hiqdev\assets\adminlte
 
 require:
-    hiqdev/hidev-config:        "*"
-    hiqdev/hidev-config-php:    "*"
+    hiqdev/hidev-php:    "*"
+    hiqdev/hidev-vendor: "*"
