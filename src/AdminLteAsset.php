@@ -1,12 +1,12 @@
 <?php
 
 /*
- * Yii 2 asset for bower AdminLTE
+ * Yii2 asset for AdminLTE
  *
  * @link      https://github.com/hiqdev/yii2-asset-adminlte
  * @package   yii2-asset-adminlte
  * @license   BSD-3-Clause
- * @copyright Copyright (c) 2015, HiQDev (https://hiqdev.com/)
+ * @copyright Copyright (c) 2015-2016, HiQDev (http://hiqdev.com/)
  */
 
 namespace hiqdev\assets\adminlte;
