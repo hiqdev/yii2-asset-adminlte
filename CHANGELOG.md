@@ -1,6 +1,10 @@
 hiqdev/yii2-asset-adminlte changelog
 ------------------------------------
 
+## 2.3.2.1 2016-03-29
+
+- Fixed `composer.json` to be both fxp/hiqdev composer-asset-plugins compatible
+
 ## 2.3.2 2016-02-20
 
 - Changed: updated to AdminLTE 2.3.2

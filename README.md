@@ -6,8 +6,8 @@ Yii2 AdminLTE
 [![Latest Stable Version](https://poser.pugx.org/hiqdev/yii2-asset-adminlte/v/stable)](https://packagist.org/packages/hiqdev/yii2-asset-adminlte)
 [![Total Downloads](https://poser.pugx.org/hiqdev/yii2-asset-adminlte/downloads)](https://packagist.org/packages/hiqdev/yii2-asset-adminlte)
 [![Build Status](https://img.shields.io/travis/hiqdev/yii2-asset-adminlte.svg)](https://travis-ci.org/hiqdev/yii2-asset-adminlte)
-[![Code Coverage](https://scrutinizer-ci.com/g/hiqdev/yii2-asset-adminlte/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/hiqdev/yii2-asset-adminlte/?branch=master)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/hiqdev/yii2-asset-adminlte/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/hiqdev/yii2-asset-adminlte/?branch=master)
+[![Scrutinizer Code Coverage](https://img.shields.io/scrutinizer/coverage/g/hiqdev/yii2-asset-adminlte.svg)](https://scrutinizer-ci.com/g/hiqdev/yii2-asset-adminlte/)
+[![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/g/hiqdev/yii2-asset-adminlte.svg)](https://scrutinizer-ci.com/g/hiqdev/yii2-asset-adminlte/)
 [![Dependency Status](https://www.versioneye.com/php/hiqdev:yii2-asset-adminlte/dev-master/badge.svg)](https://www.versioneye.com/php/hiqdev:yii2-asset-adminlte/dev-master)
 
 ## Installation
