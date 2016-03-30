@@ -48,6 +48,9 @@
         "hiqdev/composer-asset-plugin": "*",
         "bower-asset/adminlte": "2.3.2"
     },
+    "require-dev": {
+        "hiqdev/composer-asset-plugin": "*@dev"
+    },
     "autoload": {
         "psr-4": {
             "hiqdev\\assets\\adminlte\\": "src"
