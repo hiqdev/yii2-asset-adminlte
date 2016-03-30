@@ -1,6 +1,12 @@
 hiqdev/yii2-asset-adminlte commits history
 ------------------------------------------
 
+## 2.3.2.2 2016-03-30
+
+- Added cross fxp/hiqdev composer-asset-plugin compatibility
+    - 0def85b 2016-03-30 fixed cross fxp/hiqdev composer-asset-plugin compatibility (sol@hiqdev.com)
+    - 352ab69 2016-03-30 fixed composer-asset-compatibility (sol@hiqdev.com)
+
 ## 2.3.2.1 2016-03-29
 
 - Fixed `composer.json` to be both fxp/hiqdev composer-asset-plugins compatible
