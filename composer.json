@@ -45,7 +45,6 @@
     ],
     "require": {
         "yiisoft/yii2": "~2.0",
-        "hiqdev/composer-asset-plugin": "*",
         "bower-asset/adminlte": "2.3.2"
     },
     "require-dev": {
