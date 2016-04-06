@@ -1,6 +1,12 @@
 hiqdev/yii2-asset-adminlte commits history
 ------------------------------------------
 
+## 2.3.2.3 2016-04-06
+
+- Fixed build with asset-packagist
+    - a84c1fa 2016-04-06 fixed build with asset-packagist (sol@hiqdev.com)
+    - 9c67ed1 2016-04-05 Removed hiqdev/composer-asset-plugin dependency (d.naumenko.a@gmail.com)
+
 ## 2.3.2.2 2016-03-30
 
 - Added cross fxp/hiqdev composer-asset-plugin compatibility

@@ -1,6 +1,10 @@
 hiqdev/yii2-asset-adminlte changelog
 ------------------------------------
 
+## 2.3.2.3 2016-04-06
+
+- Fixed build with asset-packagist
+
 ## 2.3.2.2 2016-03-30
 
 - Added cross fxp/hiqdev composer-asset-plugin compatibility
