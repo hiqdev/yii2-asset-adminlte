@@ -1,5 +1,4 @@
-Yii2 AdminLTE
-=============
+# Yii2 AdminLTE
 
 **Yii2 asset for AdminLTE**
 
@@ -9,6 +8,11 @@ Yii2 AdminLTE
 [![Scrutinizer Code Coverage](https://img.shields.io/scrutinizer/coverage/g/hiqdev/yii2-asset-adminlte.svg)](https://scrutinizer-ci.com/g/hiqdev/yii2-asset-adminlte/)
 [![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/g/hiqdev/yii2-asset-adminlte.svg)](https://scrutinizer-ci.com/g/hiqdev/yii2-asset-adminlte/)
 [![Dependency Status](https://www.versioneye.com/php/hiqdev:yii2-asset-adminlte/dev-master/badge.svg)](https://www.versioneye.com/php/hiqdev:yii2-asset-adminlte/dev-master)
+
+[Yii2 framework] asset bundle for [AdminLTE] theme.
+
+[Yii2 framework]: http://www.yiiframework.com/
+[AdminLTE]: https://adminlte.io/
 
 ## Installation
 
@@ -33,4 +37,4 @@ to the require section of your composer.json.
 This project is released under the terms of the BSD-3-Clause [license](LICENSE).
 Read more [here](http://choosealicense.com/licenses/bsd-3-clause).
 
-Copyright © 2015-2016, HiQDev (http://hiqdev.com/)
+Copyright © 2015-2017, HiQDev (http://hiqdev.com/)
