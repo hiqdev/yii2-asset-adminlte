@@ -12,17 +12,10 @@ namespace hiqdev\assets\adminlte;
 
 class AdminLteAsset extends \yii\web\AssetBundle
 {
-    public $sourcePath = '@bower/adminlte';
-
-    public $css = [
-        'dist/css/AdminLTE.min.css',
-        'dist/css/skins/_all-skins.min.css',
-    ];
-
-    public $js = [
-        'plugins/slimScroll/jquery.slimscroll.min.js',
-        'plugins/fastclick/fastclick.min.js',
-        'plugins/pace/pace.js',
-        'dist/js/app.min.js',
+    public $sourcePath = '@bower/adminlte/dist';
+    public $js = ['js/app.min.js'];
+    public $depends = [
+        AdminLteWithSeparateFontAsset::class,
+        AdminLtePluginsAsset::class,
     ];
 }
