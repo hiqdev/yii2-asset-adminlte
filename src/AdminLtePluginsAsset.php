@@ -15,12 +15,14 @@ class AdminLtePluginsAsset extends \yii\web\AssetBundle
     public $sourcePath = '@bower/adminlte/plugins';
     public $js = [
         'pace/pace.min.js',
-//        'plugins/slimScroll/jquery.slimscroll.min.js',
-//        'plugins/fastclick/fastclick.min.js',
+        'slimScroll/jquery.slimscroll.min.js',
+        'fastclick/fastclick.min.js',
     ];
     public $publishOptions = [
         'only' => [
             'pace/*',
+            'slimScroll/*',
+            'fastclick/*',
         ],
     ];
 }
